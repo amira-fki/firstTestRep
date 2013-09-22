@@ -1,4 +1,4 @@
 firstTestRep
 ============
 
-repository to test git hub
+repository to test git
